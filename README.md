@@ -1,7 +1,7 @@
 <!-- ============================ HERO BANNER ============================ -->
 <div align="center">
 
-<img src="./assets/banner.svg" alt="Nikul Solanki, Senior React Native & Node.js Developer" width="100%"/>
+<img src="./assets/banner.png" alt="Nikul Solanki, Senior React Native & Node.js Developer" width="100%"/>
 
 <a href="https://github.com/AsurNikul">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=900&color=22D3EE&center=true&vCenter=true&width=620&height=46&lines=Senior+React+Native+Developer;Healthcare+%7C+Fitness+%7C+Full-Stack+Mobile;5%2B+Years+Shipping+iOS+%26+Android+Apps;TypeScript+%E2%80%A2+Node.js+%E2%80%A2+PostgreSQL+%E2%80%A2+Next.js;Open+to+Remote+%26+Freelance+Work" alt="Typing animation"/>
