@@ -1,125 +1,118 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Nikul Solanki
-======================================================================================================================================
+<!-- ============================ HERO BANNER ============================ -->
+<div align="center">
 
-💡 React Native Engineer | Cross-Platform Mobile Solutions | 5+ Years of Experience
------------------------------------------------------------------------------------
-
-👨‍💻 I’m a passionate React Native Developer with 5+ years of experience building cross-platform mobile applications that are fast, scalable, and user-friendly.
-
-💡 My Expertise
-
-📱 React Native, JavaScript, TypeScript
-
-🔄 Redux / Redux Toolkit – Scalable state management
-
-🌐 REST APIs, Firebase, AWS, GraphQL
-
-🎨 Animations & UI – Reanimated, Gesture Handler, Haptics
-
-⚡ Performance Optimization – FlatList, caching, lazy loading
-
-🔔 Push Notifications, Auth Flows, Offline Support
-
-🛠️ Clean Code, Best Practices, Maintainable Architecture
-
-🚀 I’ve worked on projects ranging from startup MVPs to production-level apps with thousands of active users. My focus is always on delivering smooth, reliable, and modern app experiences.
-
-📫 Contact Me
-
-📧 Email → nikulsolanki707@gmail.com
-
-💼 LinkedIn → https://www.linkedin.com/in/solanki-nikul-303215212/
-
-* 🌍  I'm based in 📍 Ahmedabad, India
-* ✉️  You can contact me at [📧 Email → nikulsolanki707@gmail.com](mailto:📧 Email → nikulsolanki707@gmail.com )
-* 🧠  I'm currently learning 🌱 Node.js & Backend Development
-* 👥  I'm looking to collaborate on React Native projects
-
-### Tools and Technologies I Use:
-
-#### Programming Languages:
-
-<p align="left">
-<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" alt="TypeScript" title="TypeScript" width="36" height="36" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" alt="JavaScript" title="JavaScript" width="36" height="36" /></a>
-</p>
-
-#### Frontend:
-
-<p align="left">
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" alt="React" title="React" width="36" height="36" /></a>
-<a href="https://reactnative.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" alt="React Native" title="React Native" width="36" height="36" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" alt="HTML5" title="HTML5" width="36" height="36" /></a>
-<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" alt="CSS3" title="CSS3" width="36" height="36" /></a>
-</p>
-
-#### Backend:
-
-<p align="left">
-<a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" alt="NodeJS" title="NodeJS" width="36" height="36" /></a>
-<a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored-dark.svg" alt="Express" title="Express" width="36" height="36" /></a>
-</p>
-
-#### Databases:
-
-<p align="left">
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" alt="MongoDB" title="MongoDB" width="36" height="36" /></a>
-</p>
-
-#### Operating Systems:
-
-<p align="left">
-<a href="https://www.microsoft.com/windows/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/windows-colored.svg" alt="Windows" title="Windows" width="36" height="36"></a>
-<a href="https://ubuntu.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ubuntu-colored.svg" alt="Ubuntu" title="Ubuntu" width="36" height="36"></a>
-<a href="https://apple.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/macos-colored-dark.svg" alt="MacOS" title="MacOS" width="36" height="36" /></a>
-</p>
-
-#### Editors / IDEs:
-
-<p align="left">
-<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" alt="VS Code" title="VS Code" width="36" height="36" /></a>
-<a href="https://developer.apple.com/xcode/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/xcode-colored.svg" alt="XCode" title="XCode" width="36" height="36" /></a>
-<a href="https://developer.android.com/studio" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/c/c1/Android_Studio_icon_%282023%29.svg" alt="Android Studio" title="Android Studio" width="36" height="36" /></a>
-<a href="https://www.cursor.com/" target="_blank" rel="noreferrer"><img src="https://static.cdnlogo.com/logos/c/23/cursor.svg" alt="Cursor" title="Cursor" width="36" height="36" /></a>
-</p>
-
-#### Other Tools and Technologies:
-
-<p align="left">
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" alt="Git" title="Git" width="36" height="36" /></a>
-<a href="https://github.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/github-colored-dark.svg" alt="Github" title="Github" width="36" height="36" /></a>
-<a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" alt="Figma" title="Figma" width="36" height="36" /></a>
-<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" alt="Firebase" title="Firebase" width="36" height="36" /></a>
-<a href="https://graphql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/graphql-colored.svg" alt="GraphQL" title="GraphQL" width="36" height="36" /></a>
-</p>
-
----
-
-
-### Socials
-
-<p align="left"> <a href="https://www.github.com/AsurNikul" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /> </picture> </a> <a href="https://www.linkedin.com/in/solanki-nikul-303215212/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" title="LinkedIn" /> </picture> </a> <a href="https://www.stackoverflow.com/users/20278666/solanki-nikul" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" alt="Stack Overflow" title="Stack Overflow" /> </picture> </a></p>
-
----
-
-### 📊 GitHub Stats  
+<img src="./assets/banner.svg" alt="Nikul Solanki, Senior React Native & Node.js Developer" width="100%"/>
 
 <a href="https://github.com/AsurNikul">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AsurNikul&langs_count=10&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=900&color=22D3EE&center=true&vCenter=true&width=620&height=46&lines=Senior+React+Native+Developer;Healthcare+%7C+Fitness+%7C+Full-Stack+Mobile;5%2B+Years+Shipping+iOS+%26+Android+Apps;TypeScript+%E2%80%A2+Node.js+%E2%80%A2+PostgreSQL+%E2%80%A2+Next.js;Open+to+Remote+%26+Freelance+Work" alt="Typing animation"/>
 </a>
 
-<a href="https://github.com/AsurNikul">
-<img src="https://github-readme-stats.vercel.app/api?username=AsurNikul&show_icons=true&theme=radical" alt="GitHub Stats" />
-</a>
+<!-- ============================ VISITOR COUNTER + STATUS ============================ -->
+<p>
+  <img src="https://komarev.com/ghpvc/?username=AsurNikul&style=for-the-badge&color=22d3ee&label=PROFILE+VIEWS" alt="Profile views"/>
+  <img src="https://img.shields.io/badge/Open%20to%20Work-Remote%20%7C%20Freelance-4ade80?style=for-the-badge" alt="Open to work"/>
+</p>
+
+<!-- ============================ SOCIAL BADGES ============================ -->
+<p>
+  <a href="https://nikulsolanki.in"><img src="https://img.shields.io/badge/Portfolio-nikulsolanki.in-a78bfa?style=for-the-badge" alt="Portfolio"/></a>
+  <a href="https://www.linkedin.com/in/solankinikul/"><img src="https://img.shields.io/badge/LinkedIn-Nikul%20Solanki-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:nikulsolanki707@gmail.com"><img src="https://img.shields.io/badge/Email-Get%20in%20Touch-f472b6?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+</p>
+
+</div>
 
 ---
 
+## 🧑‍💻 About Me
 
-### 📌 Featured Repositories  
+> **Senior React Native & Node.js Developer** building production mobile and full-stack products — including a government-integrated healthcare platform used by **500,000+ people**.
 
-<a href="https://github.com/AsurNikul/Fd">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=AsurNikul&repo=Fd&theme=radical" />
-</a>
-<a href="https://github.com/AsurNikul/react-native-tab-strip">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=AsurNikul&repo=react-native-tab-strip&theme=radical" />
-</a>
+- 🚀 **5+ years** building, shipping, and maintaining React Native apps in production across **iOS and Android**
+- 🏥 Engineered mobile features for **Health-e**, a digital health locker integrated with India's **Ayushman Bharat Digital Mission (ABDM/ABHA)** — 500,000+ installs
+- 🏋️ Shipped **GymVice** (fitness/trainer marketplace) and **Simple Practice** (SSAT test-prep) — both live today on the App Store & Google Play
+- 🏗️ Builds end-to-end: **React Native/TypeScript** clients, **Node.js/Express** REST APIs, **PostgreSQL & MongoDB** data models, **Redis** caching, **Docker/CI-CD** deployment
+- 🌐 Extends into full-stack web with **React, Next.js**, and admin dashboards
+- 🛠️ AI-assisted development workflow (**Cursor**) for faster iteration without cutting corners
+- 🌍 Based in **Ahmedabad, India** 🇮🇳 · Gujarati / Hindi / English
+
+```typescript
+const nikul: SeniorMobileDeveloper = {
+  role: "Senior React Native & Node.js Developer",
+  experience: "5+ years",
+  domains: ["Healthcare", "Fitness", "Education", "Full-Stack Web"],
+  architecture: ["Cross-Platform Mobile", "REST APIs", "Offline-First", "CI/CD"],
+  currentFocus: "Full-stack product engineering across mobile and web",
+  shipped: "500,000+ users on a government-integrated health platform",
+};
+```
+
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+**📱 Mobile**
+
+<img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/> <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/> <img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=apple&logoColor=white"/>
+
+**🔄 State & Data**
+
+<img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white"/> <img src="https://img.shields.io/badge/Redux_Toolkit-764ABC?style=for-the-badge&logo=redux&logoColor=white"/> <img src="https://img.shields.io/badge/React_Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white"/> <img src="https://img.shields.io/badge/REST_APIs-22d3ee?style=for-the-badge"/>
+
+**🌐 Web & Backend**
+
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/> <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/> <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/> <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white"/>
+
+**🗄️ Databases & Cloud**
+
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/> <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/> <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/> <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+
+**⚙️ Tools**
+
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/> <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/> <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/> <img src="https://img.shields.io/badge/Xcode-147EFB?style=for-the-badge&logo=xcode&logoColor=white"/> <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white"/>
+
+</div>
+
+---
+
+### 🏢 Where I've Shipped
+
+| Domain | What I Built |
+|---|---|
+| 🏥 **Healthcare** | Government-integrated health records app (ABDM/ABHA), 500,000+ users |
+| 🏋️ **Fitness** | Trainer/client marketplace with real-time booking & chat |
+| 📚 **Education** | Mobile test-prep app with timed exams and progress tracking |
+| 🌾 **AgriTech** | Full-stack crop & farm tracking platform (PostgreSQL/Express/React/Node) — farmer + admin apps |
+| 💼 **Full-Stack Web** | React/Next.js admin dashboards and client portals |
+
+*Most professional work is closed-source under client/employer ownership. More detail on my [portfolio](https://nikulsolanki.in).*
+
+---
+
+## 📫 Contact
+
+<div align="center">
+
+| | |
+|---|---|
+| 🌐 **Portfolio** | [nikulsolanki.in](https://nikulsolanki.in) |
+| 💼 **LinkedIn** | [Nikul Solanki](https://www.linkedin.com/in/solankinikul/) |
+| ✉️ **Email** | [nikulsolanki707@gmail.com](mailto:nikulsolanki707@gmail.com) |
+| 🐙 **GitHub** | [@AsurNikul](https://github.com/AsurNikul) |
+| 💬 **Stack Overflow** | [solanki-nikul](https://stackoverflow.com/users/20278666/solanki-nikul) |
+
+</div>
+
+---
+
+<div align="center">
+
+**⭐ If something here helped you, a star goes a long way!**
+
+*Built in India 🇮🇳 · React Native & Node.js Developer · Healthcare, Fitness & Full-Stack Mobile*
+
+<sub>Keywords: React Native Developer · Senior Mobile Engineer · Node.js · TypeScript · JavaScript · Android · iOS · Redux · Next.js · PostgreSQL · MongoDB · REST APIs · Mobile Architecture · Performance Optimization · CI/CD · Remote · Healthcare · EdTech</sub>
+
+</div>
