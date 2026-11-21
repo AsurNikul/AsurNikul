@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="300" viewBox="0 0 900 300" role="img" aria-labelledby="t d">
+<title id="t">Nikul Solanki, Senior Full Stack and React Native Developer</title><desc id="d">Senior Full Stack and React Native developer. 5+ years, iOS and Android, Node.js and PostgreSQL. 500,000+ installs on a production health app.</desc>
+<defs><radialGradient id="glow" cx="0.85" cy="0.1" r="0.7"><stop offset="0" stop-color="#22d3ee" stop-opacity="0.14"/><stop offset="1" stop-color="#22d3ee" stop-opacity="0"/></radialGradient><linearGradient id="g" x1="0" x2="1"><stop offset="0" stop-color="#22d3ee"/><stop offset="1" stop-color="#a78bfa"/></linearGradient></defs>
+<rect width="900" height="300" rx="16" fill="#0b1220" stroke="#1e2a40"/>
+<rect width="900" height="300" rx="16" fill="url(#glow)"/>
+<text x="48" y="62" font-family="'JetBrains Mono','Fira Code',Menlo,Consolas,monospace" font-size="14" fill="#22d3ee">&lt;/nikul-solanki&gt;_</text>
+<text x="48" y="116" font-family="'Inter','Segoe UI',Helvetica,Arial,sans-serif" font-size="46" font-weight="800" fill="#e6edf7">Nikul Solanki</text>
+<text x="48" y="156" font-family="'Inter','Segoe UI',Helvetica,Arial,sans-serif" font-size="24" font-weight="700" fill="url(#g)">Senior Full Stack &amp; React Native Developer</text>
+<text x="48" y="188" font-family="'Inter','Segoe UI',Helvetica,Arial,sans-serif" font-size="15" fill="#8b98ad">5+ years shipping iOS and Android apps, with the APIs and databases behind them.</text>
+<rect x="48" y="216" width="126" height="32" rx="16" fill="#111a2b" stroke="#1e2a40"/><circle cx="64" cy="232" r="4" fill="#22d3ee"/><text x="76" y="237" font-family="'Inter','Segoe UI',Helvetica,Arial,sans-serif" font-size="13" font-weight="500" fill="#e6edf7">React Native</text>
+<rect x="184" y="216" width="112" height="32" rx="16" fill="#111a2b" stroke="#1e2a40"/><circle cx="200" cy="232" r="4" fill="#a78bfa"/><text x="212" y="237" font-family="'Inter','Segoe UI',Helvetica,Arial,sans-serif" font-size="13" font-weight="500" fill="#e6edf7">TypeScript</text>
+<rect x="306" y="216" width="89" height="32" rx="16" fill="#111a2b" stroke="#1e2a40"/><circle cx="322" cy="232" r="4" fill="#4ade80"/><text x="334" y="237" font-family="'Inter','Segoe UI',Helvetica,Arial,sans-serif" font-size="13" font-weight="500" fill="#e6edf7">Node.js</text>
+<rect x="405" y="216" width="112" height="32" rx="16" fill="#111a2b" stroke="#1e2a40"/><circle cx="421" cy="232" r="4" fill="#fbbf24"/><text x="433" y="237" font-family="'Inter','Segoe UI',Helvetica,Arial,sans-serif" font-size="13" font-weight="500" fill="#e6edf7">PostgreSQL</text>
+<rect x="527" y="216" width="89" height="32" rx="16" fill="#111a2b" stroke="#1e2a40"/><circle cx="543" cy="232" r="4" fill="#f472b6"/><text x="555" y="237" font-family="'Inter','Segoe UI',Helvetica,Arial,sans-serif" font-size="13" font-weight="500" fill="#e6edf7">Next.js</text>
+<text x="48" y="276" font-family="'Inter','Segoe UI',Helvetica,Arial,sans-serif" font-size="13" fill="#8b98ad">Ahmedabad, India  ·  nikulsolanki.in</text>
+<rect x="640" y="48" width="212" height="204" rx="14" fill="#111a2b" stroke="#1e2a40"/>
+<text x="660" y="84" font-family="'JetBrains Mono','Fira Code',Menlo,Consolas,monospace" font-size="11" letter-spacing="1.5" fill="#8b98ad">PRODUCTION IMPACT</text>
+<text x="660" y="138" font-family="'Inter','Segoe UI',Helvetica,Arial,sans-serif" font-size="40" font-weight="800" fill="#e6edf7">500,000+</text>
+<text x="660" y="164" font-family="'Inter','Segoe UI',Helvetica,Arial,sans-serif" font-size="13" fill="#8b98ad">installs on Health-e,</text><text x="660" y="182" font-family="'Inter','Segoe UI',Helvetica,Arial,sans-serif" font-size="13" fill="#8b98ad">an ABDM / ABHA health app</text>
+<rect x="660" y="204" width="172" height="1" fill="#1e2a40"/><circle cx="665" cy="228" r="4" fill="#4ade80"/><text x="678" y="232" font-family="'Inter','Segoe UI',Helvetica,Arial,sans-serif" font-size="13" fill="#e6edf7">Open to remote &amp; freelance</text>
+</svg>

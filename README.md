@@ -1,118 +1,75 @@
-<!-- ============================ HERO BANNER ============================ -->
 <div align="center">
 
-<img src="./assets/banner.png" alt="Nikul Solanki, Senior React Native & Node.js Developer" width="100%"/>
+<img src="./assets/hero.svg" alt="Nikul Solanki, Senior Full Stack and React Native Developer. 500,000+ installs on a production health app." width="100%"/>
 
-<a href="https://github.com/AsurNikul">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=900&color=22D3EE&center=true&vCenter=true&width=620&height=46&lines=Senior+React+Native+Developer;Healthcare+%7C+Fitness+%7C+Full-Stack+Mobile;5%2B+Years+Shipping+iOS+%26+Android+Apps;TypeScript+%E2%80%A2+Node.js+%E2%80%A2+PostgreSQL+%E2%80%A2+Next.js;Open+to+Remote+%26+Freelance+Work" alt="Typing animation"/>
+<a href="https://nikulsolanki.in">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3000&pause=1000&color=22D3EE&center=true&vCenter=true&width=700&height=44&lines=Senior+Full+Stack+%26+React+Native+Developer;Shipping+iOS+%26+Android+apps+to+production;React+Native+%E2%80%A2+TypeScript+%E2%80%A2+Node.js+%E2%80%A2+PostgreSQL;Open+to+remote+%26+freelance+work" alt="Typing animation: Senior Full Stack and React Native Developer"/>
 </a>
 
-<!-- ============================ VISITOR COUNTER + STATUS ============================ -->
 <p>
-  <img src="https://komarev.com/ghpvc/?username=AsurNikul&style=for-the-badge&color=22d3ee&label=PROFILE+VIEWS" alt="Profile views"/>
-  <img src="https://img.shields.io/badge/Open%20to%20Work-Remote%20%7C%20Freelance-4ade80?style=for-the-badge" alt="Open to work"/>
-</p>
-
-<!-- ============================ SOCIAL BADGES ============================ -->
-<p>
-  <a href="https://nikulsolanki.in"><img src="https://img.shields.io/badge/Portfolio-nikulsolanki.in-a78bfa?style=for-the-badge" alt="Portfolio"/></a>
-  <a href="https://www.linkedin.com/in/solankinikul/"><img src="https://img.shields.io/badge/LinkedIn-Nikul%20Solanki-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="mailto:nikulsolanki707@gmail.com"><img src="https://img.shields.io/badge/Email-Get%20in%20Touch-f472b6?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://nikulsolanki.in"><img src="https://img.shields.io/badge/PORTFOLIO-nikulsolanki.in-22d3ee?style=for-the-badge&labelColor=0b1220" alt="Portfolio"/></a>
+  <a href="https://www.linkedin.com/in/solankinikul/"><img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0b1220" alt="LinkedIn"/></a>
+  <a href="mailto:nikulsolanki707@gmail.com"><img src="https://img.shields.io/badge/EMAIL-GET%20IN%20TOUCH-a78bfa?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0b1220" alt="Email"/></a>
+  <img src="https://komarev.com/ghpvc/?username=AsurNikul&style=for-the-badge&color=1e2a40&label=PROFILE+VIEWS&labelColor=0b1220" alt="Profile views"/>
 </p>
 
 </div>
 
----
+## About
 
-## 🧑‍💻 About Me
+I build mobile apps end to end: **React Native** clients for iOS and Android, and the **Node.js / Express** APIs, **PostgreSQL / MongoDB** databases and **Firebase** services behind them. I have 5+ years in production, mostly in healthcare, fitness and education, and I also build web products and admin dashboards with **React** and **Next.js**.
 
-> **Senior React Native & Node.js Developer** building production mobile and full-stack products — including a government-integrated healthcare platform used by **500,000+ people**.
+- **Mobile architecture:** Redux Toolkit state, REST API integration, real-time features, push notifications, deep linking
+- **Production work:** performance optimization, app store releases, debugging live apps
+- **Healthcare:** features for **Health-e**, a digital health locker integrated with India's ABDM / ABHA, with 500,000+ installs
+- **AI-assisted workflow:** I use Cursor to move faster without cutting corners
 
-- 🚀 **5+ years** building, shipping, and maintaining React Native apps in production across **iOS and Android**
-- 🏥 Engineered mobile features for **Health-e**, a digital health locker integrated with India's **Ayushman Bharat Digital Mission (ABDM/ABHA)** — 500,000+ installs
-- 🏋️ Shipped **GymVice** (fitness/trainer marketplace) and **Simple Practice** (SSAT test-prep) — both live today on the App Store & Google Play
-- 🏗️ Builds end-to-end: **React Native/TypeScript** clients, **Node.js/Express** REST APIs, **PostgreSQL & MongoDB** data models, **Redis** caching, **Docker/CI-CD** deployment
-- 🌐 Extends into full-stack web with **React, Next.js**, and admin dashboards
-- 🛠️ AI-assisted development workflow (**Cursor**) for faster iteration without cutting corners
-- 🌍 Based in **Ahmedabad, India** 🇮🇳 · Gujarati / Hindi / English
+Based in Ahmedabad, India. I speak Gujarati, Hindi and English.
 
-```typescript
-const nikul: SeniorMobileDeveloper = {
-  role: "Senior React Native & Node.js Developer",
-  experience: "5+ years",
-  domains: ["Healthcare", "Fitness", "Education", "Full-Stack Web"],
-  architecture: ["Cross-Platform Mobile", "REST APIs", "Offline-First", "CI/CD"],
-  currentFocus: "Full-stack product engineering across mobile and web",
-  shipped: "500,000+ users on a government-integrated health platform",
-};
-```
+## Tech stack
 
----
+<img src="./assets/stack.svg" alt="Tech stack: React Native, TypeScript, JavaScript, iOS, Android, Redux Toolkit, React Query, React, Next.js, Node.js, Express, PostgreSQL, MongoDB, Firebase, Redis, Docker, GitHub Actions, Git, Xcode, Android Studio, Postman, Figma, Cursor." width="100%"/>
 
-## 🛠️ Tech Stack
+## Shipped products
+
+<img src="./assets/shipped.svg" alt="Shipped products: Health-e (healthcare), GymVice (fitness), Simple Practice (education), and a crop and farm tracking platform (agritech)." width="100%"/>
+
+<sub>Most of my professional work is closed source and owned by the client or employer. More detail on my <a href="https://nikulsolanki.in">portfolio</a>.</sub>
+
+## Open source
 
 <div align="center">
 
-**📱 Mobile**
-
-<img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/> <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/> <img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=apple&logoColor=white"/>
-
-**🔄 State & Data**
-
-<img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white"/> <img src="https://img.shields.io/badge/Redux_Toolkit-764ABC?style=for-the-badge&logo=redux&logoColor=white"/> <img src="https://img.shields.io/badge/React_Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white"/> <img src="https://img.shields.io/badge/REST_APIs-22d3ee?style=for-the-badge"/>
-
-**🌐 Web & Backend**
-
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/> <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/> <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/> <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white"/>
-
-**🗄️ Databases & Cloud**
-
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/> <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/> <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/> <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-
-**⚙️ Tools**
-
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/> <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/> <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/> <img src="https://img.shields.io/badge/Xcode-147EFB?style=for-the-badge&logo=xcode&logoColor=white"/> <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white"/>
+<a href="https://github.com/AsurNikul/react-native-tab-strip"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AsurNikul&repo=react-native-tab-strip&theme=transparent&bg_color=0b1220&title_color=22d3ee&text_color=8b98ad&icon_color=a78bfa&border_color=1e2a40&border_radius=12" alt="react-native-tab-strip: an animated tab bar component for React Native"/></a>
+<a href="https://github.com/AsurNikul/animatedTopTabBar"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AsurNikul&repo=animatedTopTabBar&theme=transparent&bg_color=0b1220&title_color=22d3ee&text_color=8b98ad&icon_color=a78bfa&border_color=1e2a40&border_radius=12" alt="animatedTopTabBar: an npm package for animated top tabs"/></a>
 
 </div>
 
----
-
-### 🏢 Where I've Shipped
-
-| Domain | What I Built |
-|---|---|
-| 🏥 **Healthcare** | Government-integrated health records app (ABDM/ABHA), 500,000+ users |
-| 🏋️ **Fitness** | Trainer/client marketplace with real-time booking & chat |
-| 📚 **Education** | Mobile test-prep app with timed exams and progress tracking |
-| 🌾 **AgriTech** | Full-stack crop & farm tracking platform (PostgreSQL/Express/React/Node) — farmer + admin apps |
-| 💼 **Full-Stack Web** | React/Next.js admin dashboards and client portals |
-
-*Most professional work is closed-source under client/employer ownership. More detail on my [portfolio](https://nikulsolanki.in).*
-
----
-
-## 📫 Contact
+## GitHub activity
 
 <div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=AsurNikul&show_icons=true&hide_border=false&bg_color=0b1220&title_color=22d3ee&text_color=8b98ad&icon_color=a78bfa&border_color=1e2a40&border_radius=12&hide=contribs" alt="GitHub stats for AsurNikul"/>
+<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=AsurNikul&background=0b1220&border=1e2a40&ring=22d3ee&fire=a78bfa&currStreakNum=e6edf7&sideNums=e6edf7&currStreakLabel=22d3ee&sideLabels=8b98ad&dates=8b98ad&stroke=1e2a40&hide_border=false&border_radius=12" alt="GitHub streak for AsurNikul"/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AsurNikul&bg_color=0b1220&color=8b98ad&line=22d3ee&point_color=a78bfa&area=true&area_color=22d3ee&hide_border=true&radius=12" alt="Contribution activity graph for AsurNikul" width="100%"/>
+
+</div>
+
+## Contact
+
+Looking for a senior React Native or full-stack engineer? I'm open to remote and freelance work.
 
 | | |
 |---|---|
-| 🌐 **Portfolio** | [nikulsolanki.in](https://nikulsolanki.in) |
-| 💼 **LinkedIn** | [Nikul Solanki](https://www.linkedin.com/in/solankinikul/) |
-| ✉️ **Email** | [nikulsolanki707@gmail.com](mailto:nikulsolanki707@gmail.com) |
-| 🐙 **GitHub** | [@AsurNikul](https://github.com/AsurNikul) |
-| 💬 **Stack Overflow** | [solanki-nikul](https://stackoverflow.com/users/20278666/solanki-nikul) |
+| Portfolio | [nikulsolanki.in](https://nikulsolanki.in) |
+| LinkedIn | [Nikul Solanki](https://www.linkedin.com/in/solankinikul/) |
+| Email | [nikulsolanki707@gmail.com](mailto:nikulsolanki707@gmail.com) |
+| Stack Overflow | [solanki-nikul](https://stackoverflow.com/users/20278666/solanki-nikul) |
 
-</div>
+<details>
+<summary>Plain-text summary</summary>
 
----
+**Nikul Solanki, Senior Full Stack & React Native Developer** (Ahmedabad, India). 5+ years building production iOS and Android apps with React Native and TypeScript, plus Node.js / Express APIs on PostgreSQL and MongoDB. Shipped Health-e (ABDM / ABHA health app, 500,000+ installs), GymVice (fitness marketplace) and Simple Practice (SSAT test prep), and built a full-stack crop and farm tracking platform. Also works with React, Next.js, Firebase, Redis and Docker.
 
-<div align="center">
-
-**⭐ If something here helped you, a star goes a long way!**
-
-*Built in India 🇮🇳 · React Native & Node.js Developer · Healthcare, Fitness & Full-Stack Mobile*
-
-<sub>Keywords: React Native Developer · Senior Mobile Engineer · Node.js · TypeScript · JavaScript · Android · iOS · Redux · Next.js · PostgreSQL · MongoDB · REST APIs · Mobile Architecture · Performance Optimization · CI/CD · Remote · Healthcare · EdTech</sub>
-
-</div>
+</details>
